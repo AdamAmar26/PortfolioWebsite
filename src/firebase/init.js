@@ -6,12 +6,7 @@ import {getFirestore} from "firebase/firestore"
 import {getAuth} from "firebase/auth";
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCj31amm7mnHa8pN0Vnb6C0YM4mwxYnR3I",
-  authDomain: "csc340-project2.firebaseapp.com",
-  projectId: "csc340-project2",
-  storageBucket: "csc340-project2.firebasestorage.app",
-  messagingSenderId: "967983651833",
-  appId: "1:967983651833:web:51114078261df72fce7b28"
+// Deleted Firebase configuration to avoid security breaches
 };
 
 // Initialize Firebase
